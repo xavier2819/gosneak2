@@ -1,4 +1,3 @@
-# gosneak2
 // Archivo: App.jsx
 // Proyecto: TALENTIQ - HRIS con IA
 // Descripción: Interfaz visual del sistema de recursos humanos con IA
